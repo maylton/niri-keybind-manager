@@ -3,9 +3,9 @@
   "name": "Niri Keybind Manager",
   "version": "1.0.0",
   "minNoctaliaVersion": "3.6.0",
-  "author": "blacku",
+  "author": "maylton",
   "license": "MIT",
-  "repository": "https://github.com/noctalia-dev/noctalia-plugins",
+  "repository": "https://github.com/maylton/niri-keybind-manager",
   "description": "Universal keyboard shortcuts keymap that automatically detects and displays keybindings for Hyprland or Niri compositors.",
   "tags": ["Bar", "Panel", "System", "Indicator"],
   "entryPoints": {
